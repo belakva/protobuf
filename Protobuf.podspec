@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
                :tag => "v#{s.version}" }
 
   s.source_files = 'objectivec/*.{h,m}',
+                   'objectivec/google/protobuf/Main.pbobjc.{h,m}',
                    'objectivec/google/protobuf/Any.pbobjc.{h,m}',
                    'objectivec/google/protobuf/Api.pbobjc.{h,m}',
                    'objectivec/google/protobuf/Duration.pbobjc.{h,m}',
