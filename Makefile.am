@@ -423,6 +423,8 @@ objectivec_EXTRA_DIST=                                                       \
   objectivec/DevTools/pddm.py                                                \
   objectivec/DevTools/pddm_tests.py                                          \
   objectivec/generate_well_known_types.sh                                    \
+  objectivec/google/protobuf/Main.pbobjc.h                                   \
+  objectivec/google/protobuf/Main.pbobjc.m                                   \
   objectivec/google/protobuf/Any.pbobjc.h                                    \
   objectivec/google/protobuf/Any.pbobjc.m                                    \
   objectivec/google/protobuf/Api.pbobjc.h                                    \

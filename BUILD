@@ -855,6 +855,8 @@ OBJC_HDRS = [
     "objectivec/GPBWireFormat.h",
     "objectivec/google/protobuf/Any.pbobjc.h",
     "objectivec/google/protobuf/Api.pbobjc.h",
+    "objectivec/google/protobuf/Main.pbobjc.h",
+    "objectivec/google/protobuf/Main.pbobjc.h",
     "objectivec/google/protobuf/Duration.pbobjc.h",
     "objectivec/google/protobuf/Empty.pbobjc.h",
     "objectivec/google/protobuf/FieldMask.pbobjc.h",
